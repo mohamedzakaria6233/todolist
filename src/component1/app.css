@@ -1,0 +1,22 @@
+body{
+    background-color:blue ;
+}
+.tit{
+    background-color:blue ;
+}
+.bt{
+    margin: 0 auto;
+    background-color: red;
+    text-align: center;
+}
+.bt button{
+    font-size: 40px;
+    border-radius: 20px;
+
+}
+.bt2{
+    background-color: blueviolet;
+    text-align: center;
+    font-size: 40px;
+    
+}
